@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "app": "GlucoNote",
+  "displayName": "血糖随手记 GlucoNote",
+  "version": "1.2.10",
+  "versionCode": 17,
+  "tag": "v1.2.10",
+  "publishedAt": "2026-10-28T13:09:04Z",
+  "minSdk": 26,
+  "notes": "## 血糖随手记 GlucoNote v1.2.10\n\n发布时间：2026-10-28 13:09 UTC\n\n- 安装包：GlucoNote-v1.2.10.apk（全架构通用）\n- 更新方式：应用内「我的 → 版本更新 → 检查更新」，或从发布页直接下载",
+  "assets": [
+    {
+      "file": "GlucoNote-v1.2.10.apk",
+      "size": 1601298,
+      "sha256": "6ddd5295f2bdc5c79c0a2d64bc6579877d54bbeb1e4c6176ce5133b62a073657"
+    }
+  ]
+}
