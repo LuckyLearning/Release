@@ -1,0 +1,4 @@
+5714992415e0208b8e99cd116e00cc10354f94aa92a34c7a2ffce6c1c31828c0  WindTone-v1.2.51-arm64-v8a.apk
+be10e415deecd79e88a1981fdbc8394fdd6b4c086a54fbb65658f8fc607bbb00  WindTone-v1.2.51-armeabi-v7a.apk
+7b4af27b7f1fcd1794225afdba1abb4a06a0960cfb8a8662f8caec06793b357a  WindTone-v1.2.51-universal.apk
+eab9cc35aef36c04f55915ace174ea713a5628c7b43e5a6c361ed24b2f062642  WindTone-v1.2.51-x86_64.apk
