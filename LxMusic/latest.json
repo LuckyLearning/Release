@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "app": "LxMusic",
+  "displayName": "洛雪音乐·比亚迪车机版",
+  "version": "0.0.11",
+  "versionCode": 11,
+  "tag": "v0.0.11",
+  "publishedAt": "2026-11-21T15:04:52Z",
+  "minSdk": 21,
+  "notes": "## 洛雪音乐·比亚迪车机版 v0.0.11\n\n首个车机适配版本，基于上游 LX Music v1.9.2（同步基线 `0669d1b`）。\n\n### 本版内容\n\n- **车机横屏界面**：22 个车机组件 + 夜曲/白昼双主题 + Inter 字体，1920×1080 设计基准自适应缩放；手机竖屏界面保持上游原样。\n- **三七分屏**：声明 `BYD_SUPPORT_SPLIT_ACTIVITY`（API≥32 生效）+ `resizeableActivity`，可在比亚迪车机 7 分屏中与导航共存。\n- **悬浮歌词增强**：多屏识别与投射选择、背景色/圆角/边框色/边框宽/字间距/字体可调（滑块）、描边可读性、前台服务保活。\n\n### 安装说明\n\n- 首次安装请先卸载已安装的洛雪音乐（签名不同，无法覆盖安装）。\n- 若已安装上游正式版，同样需卸载后再装本包。\n\n### 文件校验\n\n| 文件 | 大小 | SHA-256 |\n| --- | --- | --- |\n| `lx-music-mobile-v0.0.11-arm64-v8a.apk` | 14318387 | `c0426283dc3b480ad82ee6fed5566b881c5e092967993f258236d3c11e9345ea` |\n| `lx-music-mobile-v0.0.11-armeabi-v7a.apk` | 13311435 | `58a5f668f6a6980795ed18ae6a229b39913c8c0fc51f9fde11efd243593ebf45` |\n| `lx-music-mobile-v0.0.11-universal.apk` | 29316948 | `2b040a32eb9829e813b7d335ce31401d614ac58825924171f258bd9105fa99be` |\n| `lx-music-mobile-v0.0.11-x86.apk` | 14762314 | `66ccd4262567b557e7d9aa3563c8863c7df06a5b9e4249537cc604f1346598c1` |\n| `lx-music-mobile-v0.0.11-x86_64.apk` | 14642524 | `8b213796e2b265174d1e7ba5788afcb06b647e8c89e8e7b461489072883635e4` |\n\n签名模式：`release`",
+  "desc": "洛雪音乐·比亚迪车机版 v0.0.11\n首个车机适配版本，基于上游 LX Music v1.9.2（同步基线 0669d1b）。\n本版内容\n· 车机横屏界面：22 个车机组件 + 夜曲/白昼双主题 + Inter 字体，1920×1080 设计基准自适应缩放；手机竖屏界面保持上游原样。\n· 三七分屏：声明 BYD_SUPPORT_SPLIT_ACTIVITY（API≥32 生效）+ resizeableActivity，可在比亚迪车机 7 分屏中与导航共存。\n· 悬浮歌词增强：多屏识别与投射选择、背景色/圆角/边框色/边框宽/字间距/字体可调（滑块）、描边可读性、前台服务保活。\n安装说明\n· 首次安装请先卸载已安装的洛雪音乐（签名不同，无法覆盖安装）。\n· 若已安装上游正式版，同样需卸载后再装本包。\n文件校验\n签名模式：release",
+  "assets": [
+    {
+      "abi": "arm64-v8a",
+      "file": "lx-music-mobile-v0.0.11-arm64-v8a.apk",
+      "size": 14318387,
+      "sha256": "c0426283dc3b480ad82ee6fed5566b881c5e092967993f258236d3c11e9345ea"
+    },
+    {
+      "abi": "armeabi-v7a",
+      "file": "lx-music-mobile-v0.0.11-armeabi-v7a.apk",
+      "size": 13311435,
+      "sha256": "58a5f668f6a6980795ed18ae6a229b39913c8c0fc51f9fde11efd243593ebf45"
+    },
+    {
+      "abi": "x86_64",
+      "file": "lx-music-mobile-v0.0.11-x86_64.apk",
+      "size": 14642524,
+      "sha256": "8b213796e2b265174d1e7ba5788afcb06b647e8c89e8e7b461489072883635e4"
+    },
+    {
+      "abi": "x86",
+      "file": "lx-music-mobile-v0.0.11-x86.apk",
+      "size": 14762314,
+      "sha256": "66ccd4262567b557e7d9aa3563c8863c7df06a5b9e4249537cc604f1346598c1"
+    },
+    {
+      "abi": "universal",
+      "file": "lx-music-mobile-v0.0.11-universal.apk",
+      "size": 29316948,
+      "sha256": "2b040a32eb9829e813b7d335ce31401d614ac58825924171f258bd9105fa99be"
+    }
+  ]
+}

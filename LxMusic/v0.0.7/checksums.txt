@@ -1,0 +1,5 @@
+240f92ecbf0e40ebdc3354ed1b5d23223e7c6b6dff6d662bfb1007ef7b7a629e  lx-music-mobile-v0.0.7-arm64-v8a.apk
+031ca3e9ab07107700213c9154800db493764a1f1b0cac67a41696cce32890a5  lx-music-mobile-v0.0.7-armeabi-v7a.apk
+b16b8e352388b577294d99dbbb3d24e8fb457962ee2151aa2f136980933b3781  lx-music-mobile-v0.0.7-universal.apk
+43387e70f5892410cd930c724d2cedc8a45c438d81b83633e6b9a1aa72d52b69  lx-music-mobile-v0.0.7-x86.apk
+3d9ade7e014f2466311325f74b09eb7ab89ef2ccc4ced1e5b9facb0a84310550  lx-music-mobile-v0.0.7-x86_64.apk
